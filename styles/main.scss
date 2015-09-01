@@ -1,0 +1,24 @@
+@import 'common';
+
+header {
+  height: 5em;
+  background-color: $primary-color;
+}
+.action {
+  height: 13em;
+  .action-button {
+    margin: 0 auto;
+    margin-top: 7em;
+  }
+}
+.haoduo {
+  height: 9em;
+  background-color: $primary-color;
+}
+.books {
+  height: 9em;
+}
+footer {
+  height: 5em;
+  background-color: #212121;
+}
