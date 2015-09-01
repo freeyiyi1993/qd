@@ -12,8 +12,29 @@ header {
   }
 }
 .haoduo {
-  height: 9em;
   background-color: $primary-color;
+  h2 {
+    margin-top: 2em;
+    color: $primary-color-text;
+    text-align: center;
+    font-weight: normal;
+  }
+  p {
+    text-align: center;
+    color:  $primary-color-text;
+    opacity: .9;
+  }
+  a.visit-haoduo {
+    display: block;
+    width: 6em;
+    text-align: center;
+    padding: .8em;
+    margin: 1.5em auto;
+    font-size: .8em;
+    color: $primary-color-text;
+    background-color: $primary-color-dark;
+    border-radius: 1em;
+  }
 }
 .books {
   height: 9em;
