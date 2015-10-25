@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/happypeter/qd",
   "devDependencies": {
+    "babel-loader": "^5.3.2",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^2.3.1",
     "gulp-sass": "^2.0.4",
