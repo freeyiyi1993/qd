@@ -6,7 +6,7 @@ var Button = require('./Button.js');
     return (
 
       <div className="action clearfix">
-        <Button text={'Search'}/>
+        <Button isGreen={true} text={'Search'}/>
       </div>
     );
   }
